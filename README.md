@@ -4,10 +4,10 @@
 <h3>Features</h3>
 <ul>
   <li>User-friendly interface for adding cycling and running activities.</li>
-  <li>Utilizes the Leaflet library for interactive and dynamic maps.</li>
+  <li>Utilizes the <em>Leaflet library</em> for interactive and dynamic maps.</li>
   <li>Activities are displayed on the map with custom markers.</li>
-  <li>Form input validation to ensure accurate activity data.</li>
-  <li>Encapsulation and inheritance are employed to create modular and maintainable code.</li>
+  <li>Form <em>input validation</em> to ensure accurate activity data.</li>
+  <li><em>Encapsulation and inheritance</em> are employed to create modular and maintainable code.</li>
   <li>Activity data is stored locally, allowing users to revisit their activities even after closing the browser.</li>
 </ul>
 <h3>Learnings</h3>
